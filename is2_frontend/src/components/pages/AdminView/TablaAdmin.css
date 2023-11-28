@@ -1,0 +1,21 @@
+.color-tope{
+    background-color:#2dc071;
+}
+
+.td{
+    text-align:center;
+}
+
+.table {
+    table-layout: fixed;
+    text-align:center;
+  }
+  
+  .active {
+    background-color: #25cfd486; /* Customize the background color as needed */
+  }
+  
+  .expanded-row {
+    background-color: #17888b86; /* Customize the background color as needed */
+  }
+ 

@@ -1,0 +1,12 @@
+.custom-button {
+	background: #44d1ca;
+	color: white;
+	border-style: outset;
+	border-color: #44d1ca;
+	height: 50px;
+	width: 100px;
+	font: bold 15px arial, sans-serif;
+	text-shadow: none;
+	border-radius: 25px; /* Adjust the value to control the roundness */
+  }
+  
